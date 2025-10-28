@@ -1,0 +1,19 @@
+# Игнорировать виртуальное окружение
+.venv/
+env/
+venv/
+
+# Настройки PyCharm
+.idea/
+
+# Кэш и временные файлы Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Системные файлы macOS
+.DS_Store
+
+# Логи
+*.log
